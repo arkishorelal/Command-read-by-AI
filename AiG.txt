@@ -1,0 +1,5 @@
+Code:
+import pyttsx3
+list = pyttsx3.init()
+list.say('welcome to kishore droid')
+list.runAndWait()
